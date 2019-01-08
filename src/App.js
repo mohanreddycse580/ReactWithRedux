@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import CreatePost from "./containers/CreatePost";
-import PostList from "./components/PostList";
+import PostList from "./containers/PostList";
 
 const stylesApp = {
   marginTop: 40
