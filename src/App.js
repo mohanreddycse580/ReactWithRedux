@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import CreatePost from "./containers/CreatePost";
 import PostList from "./containers/PostList";
-
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 const stylesApp = {
   marginTop: 40
 };
